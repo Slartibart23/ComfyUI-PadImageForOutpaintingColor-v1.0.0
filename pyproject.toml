@@ -1,0 +1,14 @@
+[project]
+name = "comfyui-pad-image-for-outpainting-color"
+description = "Pad Image For Outpainting with a user-defined fill color (color picker + hex code)."
+version = "1.0.0"
+license = { text = "MIT" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/DEIN-GITHUB-NAME/ComfyUI-PadImageForOutpaintingColor"
+
+[tool.comfy]
+PublisherId = ""
+DisplayName = "Pad Image For Outpainting (Color)"
+Icon = ""
