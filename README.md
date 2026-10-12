@@ -12,7 +12,7 @@ eingetippt werden.
 ### Manuell
 ```
 cd ComfyUI/custom_nodes
-git clone https://github.com/DEIN-GITHUB-NAME/ComfyUI-PadImageForOutpaintingColor
+git clone https://github.com/Slartibart23/ComfyUI-PadImageForOutpaintingColor-v1.0.0
 ```
 ComfyUI neu starten, im Browser einmal Hard-Reload (Strg+F5).
 
