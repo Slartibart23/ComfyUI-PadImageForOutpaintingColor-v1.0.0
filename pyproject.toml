@@ -6,9 +6,9 @@ license = { text = "MIT" }
 dependencies = []
 
 [project.urls]
-Repository = "https://github.com/DEIN-GITHUB-NAME/ComfyUI-PadImageForOutpaintingColor"
+Repository = "https://github.com/Slartibart23/ComfyUI-PadImageForOutpaintingColor-v1.0.0"
 
 [tool.comfy]
-PublisherId = ""
+PublisherId = "slartibart23b"
 DisplayName = "Pad Image For Outpainting (Color)"
 Icon = ""
